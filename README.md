@@ -9,7 +9,7 @@ An expenses app project created in flutter.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/MBDani/expenses_app.git
 ```
 
 **Step 2:**
